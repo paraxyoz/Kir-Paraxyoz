@@ -19,7 +19,7 @@
 
 <!-- ===== ЗАГОЛОВОК С НИКОМ ===== -->
 <div align="center">
-  <h1>{Paraxyoz}</h1>
+  <h1>paraxyoz</h1>
   <p><em>{Hi, my name is Kir. Student/Developer</em></p>
 </div>
 
