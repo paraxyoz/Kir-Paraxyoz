@@ -52,7 +52,7 @@
 <br/>
 
 <!-- ===== РАЗДЕЛ: ЯЗЫКИ ПРОГРАММИРОВАНИЯ И ИНСТРУМЕНТЫ ===== -->
-<h2 align="center">🛠 Языки программирования и инструменты</h2>
+<h2 align="center">🛠 programming languages and tools</h2>
 
 <br/>
 
@@ -72,7 +72,7 @@
 <!-- ИНСТРУМЕНТЫ -->
 <div align="center">
   
-  <h3>🔧 Инструменты</h3>
+  <h3>🔧 Tools</h3>
   
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-Antygravity-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxOCIgZmlsbD0iI2ZmZmZmZiIgLz48cGF0aCBkPSJNMjAgMmwxMCAxMC02IDYtNC00LTEwIDEwLTEwLTEweiIgZmlsbD0iIzZBMUI5QSIgLz48L3N2Zz4=&logoColor=white" alt="Antygravity"/>
@@ -83,7 +83,7 @@
 <br/>
 
 <!-- ===== РАЗДЕЛ: ПРОЕКТЫ ===== -->
-<h2 align="center">📂 Мои проекты</h2>
+<h2 align="center">📂 My projects</h2>
 
 <br/>
 
@@ -171,12 +171,4 @@
     </tr>
   </table>
 
-</div>
-
-<!-- ===== ПОДВАЛ ===== -->
-<div align="center">
-  <br/>
-  <sub>Сделано с ❤️ в {ваш город}</sub>
-  <br/>
-  <sub>⭐️ Заглядывайте — я постоянно добавляю новые проекты!</sub>
 </div>
