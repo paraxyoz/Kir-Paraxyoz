@@ -112,7 +112,7 @@
       <td width="50%">
         <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
         <td width="50%">
-  <img src="https://github.com/user-attachments/assets/22177e16-8c30-4247-96b3-7681aacdaeae" alt="Скриншот проекта" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/7337b1be-7288-4d87-909d-c6127204e71e" alt="Скриншот проекта" width="100%"/>
 </td>
 
   </table>
