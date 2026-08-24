@@ -90,7 +90,7 @@
     <tr>
       <td width="50%">
         <h3>🔹 OVERDOSED</h3>
-        <p>Сайт для бренда одежды.</p>
+        <p>Сайт бренда одежды.</p>
         <p>
           <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
