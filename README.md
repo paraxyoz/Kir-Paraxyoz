@@ -107,7 +107,7 @@
       <td width="50%">
         <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
         <td width="50%">
-  <img src="blob:https://yapx.ru/d7f50f5f-d912-4b76-b783-baa6c7183846" alt="Скриншот проекта" width="100%"/>
+<img alt="623591764-588e6ee8-3439-480e-af87-2a8240b71e4b" src="https://github.com/user-attachments/assets/71f85273-f050-4e53-9c56-b37c70dbf398" />
 </td>
 
   </table>
