@@ -96,11 +96,11 @@
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         </p>
         <p>
-          <a href="https://github.com/{ваш_username}/{репозиторий}">
+          <a href="https://github.com/paraxyoz/OVERDOSED">
             <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
           </a>
           <a href="https://overdosed.ru/">
-            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
+            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Site"/>
           </a>
         </p>
       </td>
