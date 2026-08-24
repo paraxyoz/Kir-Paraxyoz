@@ -19,30 +19,30 @@
 
 <!-- ===== ЗАГОЛОВОК С НИКОМ ===== -->
 <div align="center">
-  <h1>🚀 {Ваш ник}</h1>
-  <p><em>{Текст, который вы хотите написать — например, "Разработчик | Студент | Энтузиаст"}</em></p>
+  <h1>{Paraxyoz}</h1>
+  <p><em>{Hi, my name is Kir. Student/Developer</em></p>
 </div>
 
 <!-- ===== ИКОНКИ СОЦИАЛЬНЫХ СЕТЕЙ ===== -->
 <div align="center">
   
   <!-- Telegram -->
-  <a href="https://t.me/{ваш_телеграм}">
+  <a href="https://t.me/@paraxyoz">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
   <!-- Steam -->
-  <a href="https://steamcommunity.com/id/{ваш_steam}/">
+  <a href="https://steamcommunity.com/profiles/76561199244447734/">
     <img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
   
   <!-- Spotify -->
-  <a href="https://open.spotify.com/user/{ваш_spotify}">
+  <a href="https://open.spotify.com/user/31o2n2bn5brxanopxlmi36nmnepu">
     <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/{ваш_username}">
+  <a href="https://github.com/paraxyoz">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
