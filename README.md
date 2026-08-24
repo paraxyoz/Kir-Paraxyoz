@@ -111,9 +111,9 @@
       </td>
       <td width="50%">
         <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
-        <img src=<img width="1483" height="1334" alt="623591764-588e6ee8-3439-480e-af87-2a8240b71e4b" src="https://github.com/user-attachments/assets/22177e16-8c30-4247-96b3-7681aacdaeae" />
-      </td>
-    </tr>
+        <td width="50%">
+  <img src="https://github.com/user-attachments/assets/22177e16-8c30-4247-96b3-7681aacdaeae" alt="Скриншот проекта" width="100%"/>
+</td>
 
   </table>
 
