@@ -90,7 +90,7 @@
     <tr>
       <td width="50%">
         <h3>🔹 OVERDOSED</h3>
-        <p>Сайт для бренда одежды OVERDOSED.</p>
+        <p>Сайт для бренда одежды.</p>
         <p>
           <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -99,7 +99,7 @@
           <a href="https://github.com/{ваш_username}/{репозиторий}">
             <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
           </a>
-          <a href="https://ваш-сайт.ру">
+          <a href="https://overdosed.ru/">
             <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
           </a>
         </p>
