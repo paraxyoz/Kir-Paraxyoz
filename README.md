@@ -8,7 +8,7 @@
 <!-- ===== ЗАГОЛОВОК + TYPING SVG ===== -->
 <div align="center">
 
-  # Hey there! I'm Kir 👋
+  # Hey there! I'm Paraxyoz
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A1B9A&center=true&vCenter=true&random=false&width=500&lines=Student+%2F+Developer+from+Moscow;Python+%7C+Java+%7C+HTML;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG"/>
