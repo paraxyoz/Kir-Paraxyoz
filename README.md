@@ -38,15 +38,6 @@
 
 <br/>
 
-<!-- ===== О СЕБЕ ===== -->
-<div align="center">
-
-  ```text
-  🎓  Student based in Moscow
-  💻  Passionate about web & software development
-  🌱  Currently learning new technologies
-  🎮  Gamer in my free time
-
   <h2 align="center">🛠️ Languages & Tools</h2>
 
 <br/>
