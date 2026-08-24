@@ -46,3 +46,30 @@
   💻  Passionate about web & software development
   🌱  Currently learning new technologies
   🎮  Gamer in my free time
+
+  <h2 align="center">🛠️ Languages & Tools</h2>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📝 Languages</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 Tools</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Antigravity-6A1B9A?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+    </td>
+  </tr>
+</table>
+</div>
