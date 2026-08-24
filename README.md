@@ -100,7 +100,7 @@
             <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
           </a>
           <a href="https://overdosed.ru/">
-            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Site"/>
+            <img src="https://img.shields.io/badge/-Сайт-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Site"/>
           </a>
         </p>
       </td>
