@@ -78,7 +78,7 @@
 <br/>
 
 <!-- ===== РАЗДЕЛ: ПРОЕКТЫ ===== -->
-<h2 align="center">📂 My projects</h2>
+<h2 align="center">📂 My top project</h2>
 
 <br/>
 
@@ -113,58 +113,3 @@
   </table>
 
   <br/>
-
-  <!-- ПРОЕКТ 2 -->
-  <table>
-    <tr>
-      <td width="50%">
-        <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
-        <img src="https://via.placeholder.com/400x200?text=Скриншот+проекта" alt="Скриншот проекта 2" width="100%"/>
-      </td>
-      <td width="50%">
-        <h3>🔹 Название проекта 2</h3>
-        <p>Краткое описание проекта. Что делает, какую проблему решает.</p>
-        <p>
-          <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-          <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-        </p>
-        <p>
-          <a href="https://github.com/{ваш_username}/{репозиторий}">
-            <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-          <a href="https://ваш-сайт.ру">
-            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- ПРОЕКТ 3 -->
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🔹 Название проекта 3</h3>
-        <p>Краткое описание проекта. Что делает, какую проблему решает.</p>
-        <p>
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        </p>
-        <p>
-          <a href="https://github.com/{ваш_username}/{репозиторий}">
-            <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-          <a href="https://ваш-сайт.ру">
-            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/400x200?text=Скриншот+проекта" alt="Скриншот проекта 3" width="100%"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
