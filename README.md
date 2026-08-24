@@ -1,81 +1,182 @@
 <!--
-  👋 Привет! Это README для моего GitHub-профиля.
-  Замените все {заполнители} на свои данные.
-  Иконки и бейджи можно менять под свой вкус.
+  👋 Крутой профиль для GitHub
+  Замените {заполнители} на свои данные
 -->
 
+<!-- ===== ВИДЕО/ГИФКА НА ВЕРХУ ===== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/>
-  <h1>Привет, я Kir 👨‍💻</h1>
-  <p><em>Вайбкодить не стыдно. Стыдно копировать с SO и не разобраться.</em></p>
+  <!-- Вариант 1: GIF (замените ссылку) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpvb3FpN3oydjR1ZzNkZDBqdGxvb2x0d2x5eDRycnFvYXN6NmYzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Welcome banner"/>
   
-  <!-- Бейджи с контактами и соцсетями -->
-  <p>
-    <a href="https://t.me/@paraxyoz">
-      <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="mailto:paraxyoz@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://twitter.com/{ваш_твиттер}">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://github.com/paraxyoz">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+  <!-- Вариант 2: MP4 видео (если хотите своё видео, раскомментируйте и замените ссылку) -->
+  <!-- 
+  <video src="https://github.com/{ваш_username}/{репозиторий}/raw/main/assets/demo.mp4" width="600" controls/>
+  -->
+</div>
+
+<!-- ===== ПУСТАЯ СТРОКА ДЛЯ ОТСТУПА ===== -->
+<br/>
+
+<!-- ===== ЗАГОЛОВОК С НИКОМ ===== -->
+<div align="center">
+  <h1>🚀 {Ваш ник}</h1>
+  <p><em>{Текст, который вы хотите написать — например, "Разработчик | Студент | Энтузиаст"}</em></p>
+</div>
+
+<!-- ===== ИКОНКИ СОЦИАЛЬНЫХ СЕТЕЙ ===== -->
+<div align="center">
   
-  <!-- Крутая анимированная статистика или цитата -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Люблю+писать+код;Создаю+полезные+продукты;Всегда+учусь+чему-то+новому" alt="Typing SVG"/>
+  <!-- Telegram -->
+  <a href="https://t.me/{ваш_телеграм}">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  <!-- Steam -->
+  <a href="https://steamcommunity.com/id/{ваш_steam}/">
+    <img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/{ваш_spotify}">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/{ваш_username}">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
 </div>
 
----
+<!-- ===== ПУСТАЯ СТРОКА ДЛЯ ОТСТУПА ===== -->
+<br/>
 
-## 🧑‍💻 Обо мне
+<!-- ===== РАЗДЕЛ: ЯЗЫКИ ПРОГРАММИРОВАНИЯ И ИНСТРУМЕНТЫ ===== -->
+<h2 align="center">🛠 Языки программирования и инструменты</h2>
 
-- 🔭 Сейчас работаю над **{название текущего проекта}**
-- 🌱 Изучаю **{технологии, которые учите}**
-- 👯 Ищу сотрудничества над **{тип проектов}**
-- 🤔 Нуждаюсь в помощи с **{темы, где нужна помощь}**
-- 💬 Спросите меня о **{ваши экспертные темы}**
-- 📫 Как со мной связаться: **{ваш email или ссылка}**
-- ⚡ Интересный факт: **{забавный факт о вас}**
+<br/>
 
----
-
-## 🛠 Технологии и инструменты
-
-### Языки программирования
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-### Инструменты
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📈 Статистика GitHub
-
+<!-- ЯЗЫКИ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={ваш_username}&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ваш_username}&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
+  
+  <h3>📝 Языки</h3>
+  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
 </div>
 
+<br/>
+
+<!-- ИНСТРУМЕНТЫ -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={ваш_username}&theme=radical&hide_border=true" alt="Streak Stats" width="50%"/>
+  
+  <h3>🔧 Инструменты</h3>
+  
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Antygravity-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxOCIgZmlsbD0iI2ZmZmZmZiIgLz48cGF0aCBkPSJNMjAgMmwxMCAxMC02IDYtNC00LTEwIDEwLTEwLTEweiIgZmlsbD0iIzZBMUI5QSIgLz48L3N2Zz4=&logoColor=white" alt="Antygravity"/>
+  
 </div>
 
----
+<!-- ===== ПУСТАЯ СТРОКА ДЛЯ ОТСТУПА ===== -->
+<br/>
 
-## 📌 Избранные проекты
+<!-- ===== РАЗДЕЛ: ПРОЕКТЫ ===== -->
+<h2 align="center">📂 Мои проекты</h2>
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [**Проект 1**](overdosed.ru/) | Сайт бренда одежды | `React` `Node.js` `PostgreSQL` |
-| [**Проект 2**](https://github.com/paraxyoz/mineral-reference-site-for-surveyors) | Справочник минералов для геодезистов. | `Python` `Django` `Docker` |
+<br/>
+
+<!-- КАРТОЧКИ ПРОЕКТОВ -->
+<div align="center">
+  
+  <!-- ПРОЕКТ 1 -->
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🔹 Название проекта 1</h3>
+        <p>Краткое описание проекта. Что делает, какую проблему решает.</p>
+        <p>
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        </p>
+        <p>
+          <a href="https://github.com/{ваш_username}/{репозиторий}">
+            <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+          <a href="https://ваш-сайт.ру">
+            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
+        <img src="https://via.placeholder.com/400x200?text=Скриншот+проекта" alt="Скриншот проекта 1" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- ПРОЕКТ 2 -->
+  <table>
+    <tr>
+      <td width="50%">
+        <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
+        <img src="https://via.placeholder.com/400x200?text=Скриншот+проекта" alt="Скриншот проекта 2" width="100%"/>
+      </td>
+      <td width="50%">
+        <h3>🔹 Название проекта 2</h3>
+        <p>Краткое описание проекта. Что делает, какую проблему решает.</p>
+        <p>
+          <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+          <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        </p>
+        <p>
+          <a href="https://github.com/{ваш_username}/{репозиторий}">
+            <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+          <a href="https://ваш-сайт.ру">
+            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- ПРОЕКТ 3 -->
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🔹 Название проекта 3</h3>
+        <p>Краткое описание проекта. Что делает, какую проблему решает.</p>
+        <p>
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        </p>
+        <p>
+          <a href="https://github.com/{ваш_username}/{репозиторий}">
+            <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+          <a href="https://ваш-сайт.ру">
+            <img src="https://img.shields.io/badge/-Демо-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <img src="https://via.placeholder.com/400x200?text=Скриншот+проекта" alt="Скриншот проекта 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<!-- ===== ПОДВАЛ ===== -->
+<div align="center">
+  <br/>
+  <sub>Сделано с ❤️ в {ваш город}</sub>
+  <br/>
+  <sub>⭐️ Заглядывайте — я постоянно добавляю новые проекты!</sub>
+</div>
