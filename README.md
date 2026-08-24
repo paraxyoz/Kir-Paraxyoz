@@ -20,7 +20,7 @@
 <!-- ===== ЗАГОЛОВОК С НИКОМ ===== -->
 <div align="center">
   <h1>paraxyoz</h1>
-  <p><em>Hi, my name is Kir. Student/Developer</em></p>
+  <p><em>Hi, my name is Kir. Student/Developer from Moscow</em></p>
 </div>
 
 <!-- ===== ИКОНКИ СОЦИАЛЬНЫХ СЕТЕЙ ===== -->
