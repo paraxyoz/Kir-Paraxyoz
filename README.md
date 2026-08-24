@@ -64,3 +64,36 @@
   </tr>
 </table>
 </div>
+
+<h2 align="center">📂 Featured Project</h2>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🔹 OVERDOSED</h3>
+      <p><strong>Clothing brand website</strong></p>
+      <p>Сайт бренда одежды с каталогом, корзиной и интеграцией оплаты.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <p>
+        <a href="https://github.com/paraxyoz/OVERDOSED">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        &nbsp;
+        <a href="https://overdosed.ru/">
+          <img src="https://img.shields.io/badge/Live_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site"/>
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/71f85273-f050-4e53-9c56-b37c70dbf398" width="100%" alt="OVERDOSED Preview"/>
+    </td>
+  </tr>
+</table>
+</div>
