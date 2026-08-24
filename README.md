@@ -112,7 +112,7 @@
       <td width="50%">
         <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
         <td width="50%">
-  <img src="https://yapx.ru/album/eIWfq" alt="Скриншот проекта" width="100%"/>
+  <img src="blob:https://yapx.ru/d7f50f5f-d912-4b76-b783-baa6c7183846" alt="Скриншот проекта" width="100%"/>
 </td>
 
   </table>
