@@ -56,28 +56,23 @@
 
 <br/>
 
-<!-- ЯЗЫКИ -->
-<div align="center">
-  
-  <h3>/> Languages</h3>
-  
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-</div>
-
-<br/>
-
-<!-- ИНСТРУМЕНТЫ -->
-<div align="center">
-  
-  <h3>/>: Tools</h3>
-  
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Antygravity-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxOCIgZmlsbD0iI2ZmZmZmZiIgLz48cGF0aCBkPSJNMjAgMmwxMCAxMC02IDYtNC00LTEwIDEwLTEwLTEweiIgZmlsbD0iIzZBMUI5QSIgLz48L3N2Zz4=&logoColor=white" alt="Antygravity"/>
-  
-</div>
+<table align="center">
+  <tr>
+    <!-- Левая колонка: Languages -->
+    <td align="center" width="50%">
+      <h3>📝 Languages</h3>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <!-- Правая колонка: Tools -->
+    <td align="center" width="50%">
+      <h3>🔧 Tools</h3>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/-Antygravity-6A1B9A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxOCIgZmlsbD0iI2ZmZmZmZiIgLz48cGF0aCBkPSJNMjAgMmwxMCAxMC02IDYtNC00LTEwIDEwLTEwLTEweiIgZmlsbD0iIzZBMUI5QSIgLz48L3N2Zz4=&logoColor=white" alt="Antygravity"/>
+    </td>
+  </tr>
+</table>
 
 <!-- ===== ПУСТАЯ СТРОКА ДЛЯ ОТСТУПА ===== -->
 <br/>
