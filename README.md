@@ -95,7 +95,7 @@
     <tr>
       <td width="50%">
         <h3>🔹 Название проекта 1</h3>
-        <p>Краткое описание проекта. Что делает, какую проблему решает.</p>
+        <p>Сайт для бренда одежды OVERDOSED.</p>
         <p>
           <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -111,9 +111,10 @@
       </td>
       <td width="50%">
         <!-- КАРТИНКА ДЛЯ ПРОЕКТА (опционально) -->
-        <img src="https://via.placeholder.com/400x200?text=Скриншот+проекта" alt="Скриншот проекта 1" width="100%"/>
+        <img src=<img width="1483" height="1334" alt="623591764-588e6ee8-3439-480e-af87-2a8240b71e4b" src="https://github.com/user-attachments/assets/22177e16-8c30-4247-96b3-7681aacdaeae" />
       </td>
     </tr>
+
   </table>
 
   <br/>
