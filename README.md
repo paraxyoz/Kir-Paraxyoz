@@ -97,7 +97,7 @@
         </p>
         <p>
           <a href="https://github.com/paraxyoz/OVERDOSED">
-            <img src="https://img.shields.io/badge/-Посмотреть-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+            <img src="https://img.shields.io/badge/-Репозиторий-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
           </a>
           <a href="https://overdosed.ru/">
             <img src="https://img.shields.io/badge/-Сайт-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Site"/>
