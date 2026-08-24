@@ -75,7 +75,7 @@
     <td align="center" width="50%" valign="top">
       <h3>🔹 OVERDOSED</h3>
       <p><strong>Clothing brand website</strong></p>
-      <p>Сайт бренда одежды с каталогом, корзиной и интеграцией оплаты.</p>
+      <p>Сайт бренда одежды.</p>
       <br/>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
